@@ -2,8 +2,7 @@
 
 Нужно разработать таблицу в формате Single Page Application.
 
-
-### [Ссылка на проект: https://alex76456.github.io/welbex-task/](https://alex76456.github.io/welbex-task/)
+)
 
 ### Установка
 
