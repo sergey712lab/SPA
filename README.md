@@ -2,5 +2,5 @@
 
 Single Page Application 
 
-### [Ссылка на проект: https://sergey712lab.github.io/SPA//](https://sergey712lab.github.io/SPA/)
+### [Ссылка на проект: https://sergey712lab.github.io/SPA/](https://sergey712lab.github.io/SPA/)
 
