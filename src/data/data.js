@@ -1,74 +1,74 @@
 export const data = [
 	{
-		date: 2005,
-		points: 2,
-		name: 'Marlana',
-		distance: 41
-	},
-	{
 		date: 2007,
-		points: 4,
-		name: 'Bolo',
-		distance: 42
-	},
-	{
-		date: 2020,
 		points: 3,
-		name: 'Richard',
-		distance: 11
+		name: 'Idalgo',
+		distance: 32
 	},
 	{
-		date: 2011,
-		points: 1,
-		name: 'Joan',
-		distance: 13
+		date: 2005,
+		points: 4,
+		name: 'Bonobo',
+		distance: 28
+	},
+	{
+		date: 2018,
+		points: 3,
+		name: 'Toby',
+		distance: 10
+	},
+	{
+		date: 2013,
+		points: 9,
+		name: 'Graham',
+		distance: 33
 	},
 	{
 		date: 2021,
-		points: 1,
-		name: 'Joseph',
-		distance: 23
+		points: 26,
+		name: 'Steven',
+		distance: 66
 	},
 	{
 		date: 2018,
-		points: 6,
-		name: 'John',
-		distance: 24
-	},
-	{
-		date: 2017,
-		points: 2,
-		name: 'Elizabeth',
-		distance: 15
-	},
-	{
-		date: 2016,
 		points: 4,
-		name: 'Sharon',
-		distance: 25
+		name: 'Coal',
+		distance: 54
 	},
 	{
-		date: 2015,
-		points: 3,
-		name: 'Stacey',
-		distance: 30
-	},
-	{
-		date: 2014,
-		points: 3,
-		name: 'George',
-		distance: 35
-	},
-	{
-		date: 2018,
+		date: 2011,
 		points: 2,
-		name: 'Dorothy',
-		distance: 33
+		name: 'Keicy',
+		distance: 1
+	},
+	{
+		date: 2005,
+		points: 7,
+		name: 'Tom',
+		distance: 55
+	},
+	{
+		date: 2008,
+		points: 7,
+		name: 'Kevin',
+		distance: 52
+	},
+	{
+		date: 2004,
+		points: 2,
+		name: 'Michael',
+		distance: 38
+	},
+	{
+		date: 2012,
+		points: 6,
+		name: 'Meredith',
+		distance: 17
 	},
 	{
 		date: 2013,
 		points: 1,
-		name: 'Louis',
-		distance: 65
+		name: 'Gabe',
+		distance: 74
 	}
 ];
